@@ -86,7 +86,7 @@
 <td>
 
 ```javascript
-const gyanendra = {
+const rakshit = {
   code: ["JavaScript", "C++", "Java"],
   askMeAbout: ["Web Dev", "AI/ML", "Open Source"],
   currentFocus: "Building scalable React applications",

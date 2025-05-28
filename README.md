@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=35&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I%27m+Rakshit!;Full+Stack+Developer;Problem+Solver;Open+Source+Contributor" />
 

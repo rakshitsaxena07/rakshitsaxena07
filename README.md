@@ -42,7 +42,7 @@
 └──╼ $ whoami
 
 🎓 Computer Science Engineering @ JUET
-💻 Full Stack React Developer
+💻 Full Stack Developer
 🤖 AI/ML Integration Enthusiast
 🌍 Open Source Contributor
 ```

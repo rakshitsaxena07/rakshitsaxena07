@@ -23,9 +23,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-CODING-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-SOFTWARE%20DEVELOPER-00FF41?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/LOCATION-%20INDIA-00FF41?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00FF41?style=for-the-badge&logoColor=black" />
 
 </div>
 
@@ -41,8 +40,7 @@
 ┌─[Rakshit@CSE26]─[~]
 └──╼ $ whoami
 
-🎓 Computer Science Engineering @ JUET
-💻 Full Stack Developer
+💻 Software Developer
 🤖 AI/ML Integration Enthusiast
 🌍 Open Source Contributor
 ```
@@ -57,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nextjs,nodejs,mongodb,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,springboot,js,react,,nodejs,mongodb,mysql,git&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,linux,aws,docker,vscode&theme=dark" />
 
 </div>
@@ -85,9 +83,9 @@
 
 ```javascript
 const rakshit = {
-  code: ["JavaScript", "C++", "Java"],
+  code: ["C++", "Java"],
   askMeAbout: ["Web Dev", "AI/ML", "Open Source"],
-  currentFocus: "Building scalable React applications",
+  currentFocus: "Building scalable applications",
   funFact: "I debug with console.log() and I'm proud of it!",
 };
 ```
@@ -115,6 +113,6 @@ const rakshit = {
 
 <img src="https://komarev.com/ghpvc/?username=rakshitsaxena07&color=00ff41&style=for-the-badge&label=VISITORS" />
 
-**`> "Code is poetry, bugs are just misplaced metaphors." `**
+**`> "Designing logic behind the screens." `**
 
 </div>
